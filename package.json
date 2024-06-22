@@ -1,0 +1,12 @@
+{
+  "name": "playing-with-colors",
+  "version": "1.0.0",
+  "description": "Practice W/ Colo",
+  "default": "index.html",
+  "scripts": {
+    "test": "null"
+    
+  },
+  "author": "luciaprograma",
+  "license": "ISC"
+}

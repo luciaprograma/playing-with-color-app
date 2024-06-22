@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+  background-color: black;
+}
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+  color: #eee;
+
+  text-align: center;
+}
+
+h1 {
+  color: pink;
+  font-family: cursive;
+  font-size: 35px;
+  text-align: center;
+  margin-top: 20px;
+}
+a {
+  color: darkviolet;
+  font-size: 30px;
+}
+.square {
+  width: 350px;
+  height: 350px;
+  background-color: rgb(100, 100, 100);
+  margin: auto;
+  border-radius: 10%;
+  border: 5px solid white;
+}
+
+.btn {
+  font-size: 20px;
+  margin: 35px;
+  background-color: #04aa6d;
+  border-radius: 12px;
+  border: 5px solid darkgray;
+  padding: 14px 40px;
+  transition-duration: 0.7s;
+}
+.btn:hover {
+  background-color: rgb(238, 223, 13);
+}
